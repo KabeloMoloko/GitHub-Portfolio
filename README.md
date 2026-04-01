@@ -30,17 +30,6 @@ Bachelor's Pass (2020)
 
 ## Experience
 
-### Cashier  
-Maria's Restaurant  
-Nov 2025 – Jan 2026  
-
-- Handled customer payments using POS system  
-- Took and confirmed orders, assisted customers  
-- Balanced cash register and prepared sales reports  
-- Supported daily team operations  
-
----
-
 ### Backend Software Development  
 Plum Systems (Co-Parent)  
 Jun 2025 – Dec 2025  
@@ -49,6 +38,17 @@ Jun 2025 – Dec 2025
 - Implemented server-side logic and database interactions  
 - Worked with existing codebases using Git  
 - Gained exposure to production systems and multi-tier architectures  
+
+---
+
+### Cashier  
+Maria's Restaurant  
+Nov 2025 – Jan 2026  
+
+- Handled customer payments using POS system  
+- Took and confirmed orders, assisted customers  
+- Balanced cash register and prepared sales reports  
+- Supported daily team operations  
 
 ---
 
