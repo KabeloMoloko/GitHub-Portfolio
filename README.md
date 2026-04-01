@@ -1,38 +1,38 @@
-# GitHub-Portfolio
-# 👋 Hi, I'm Kabelo Nimrod Moloko
+# My GitHub-Portfolio.
+# Kabelo Nimrod Moloko
 
-🎓 ICT – Software Development Student  
-📍 Cape Town, South Africa  
-📧 230117015@mycput.ac.za  
-📱 0676189659  
-🔗 [LinkedIn](https://linkedin.com/in/kabelo-moloko-81052127)
+ICT – Software Development Student  
+Cape Town, South Africa  
+Email: 230117015@mycput.ac.za  
+Phone: 0676189659  
+LinkedIn: https://linkedin.com/in/kabelo-moloko-81052127
 
 ---
 
-## 🧑‍💻 Profile
+## Profile
 
 I am an ICT Software Development student with strong computer literacy skills, including data management, software applications, and technical problem solving.  
 I am proficient in Microsoft Office and eager to apply my knowledge in practical environments and contribute to real-world projects.
 
 ---
 
-## 🎓 Education
+## Education
 
-**Diploma in ICT (Software Development)**  
+Diploma in ICT (Software Development)  
 Cape Peninsula University of Technology, Cape Town  
-📅 2023 – 2026  
+2023 – 2026  
 
-**High School**  
+High School  
 Lenyora La Thuto Comprehensive School  
-🎓 Bachelor's Pass (2020)
+Bachelor's Pass (2020)
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🧾 Cashier  
-**Maria's Restaurant**  
-📅 Nov 2025 – Jan 2026  
+### Cashier  
+Maria's Restaurant  
+Nov 2025 – Jan 2026  
 
 - Handled customer payments using POS system  
 - Took and confirmed orders, assisted customers  
@@ -41,56 +41,41 @@ Lenyora La Thuto Comprehensive School
 
 ---
 
-### 💻 Backend Software Development  
-**Plum Systems (Co-Parent)**  
-📅 Jun 2025 – Dec 2025  
+### Backend Software Development  
+Plum Systems (Co-Parent)  
+Jun 2025 – Dec 2025  
 
-- Assisted with backend development using PHP & MySQL  
+- Assisted with backend development using PHP and MySQL  
 - Implemented server-side logic and database interactions  
 - Worked with existing codebases using Git  
 - Gained exposure to production systems and multi-tier architectures  
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - Java  
 - PHP  
 - JavaScript  
-- HTML & CSS  
+- HTML and CSS  
 - Cloud Computing  
 - Maven  
 - MySQL  
 - SQL (queries, joins, constraints)  
 - Object-Oriented Programming (OOP)  
 - Software Testing (Manual)  
-- Git & GitHub  
+- Git and GitHub  
 - Visual Studio Code  
 
 ---
 
-## 📂 Projects
+## Projects
 
-- Student Management System
-- ExploreConnectSA
-
----
-
-## 📞 References
-
-**Tashreeq**  
-Plum Systems, Cape Town  
-📧 Tashreeq@plumsystems  
-📱 0768389013  
-
-**Maria Motaung**  
-Maria's Restaurant, Botshabelo  
-📧 maria02@gmail.com  
-📱 0734499459  
+- Student System Management
+- ExploreConnectSA(Web App)
 
 ---
-
-## 🚀 Goals
+## Goals
 
 - Grow as a backend/software developer  
 - Contribute to real-world systems  
@@ -98,7 +83,21 @@ Maria's Restaurant, Botshabelo
 
 ---
 
-## 🎥 Mock Interview Video
+## References
+
+Tashreeq  
+Plum Systems, Cape Town  
+Email: Tashreeq@plumsystems  
+Phone: 0768389013  
+
+Maria Motaung  
+Maria's Restaurant, Botshabelo  
+Email: maria02@gmail.com  
+Phone: 0734499459  
+
+---
+
+## Mock Interview Video
 
 <p align="center">
   <a href="https://youtu.be/wirNxRV5rn8">
@@ -108,5 +107,3 @@ Maria's Restaurant, Botshabelo
 
 ---
 
-
-⭐ Feel free to check out my repositories and connect with me!
