@@ -31,10 +31,10 @@ Bachelor's Pass (2020)
 ## Experience
 
 ### Backend Software Development  
-Plum Systems (Co-Parent)  
+School Projects  
 Jun 2025 – Dec 2025  
 
-- Assisted with backend development using PHP and MySQL  
+- Developed a web-app for the community of District 6
 - Implemented server-side logic and database interactions  
 - Worked with existing codebases using Git  
 - Gained exposure to production systems and multi-tier architectures  
@@ -65,19 +65,22 @@ Nov 2025 – Jan 2026
 - Object-Oriented Programming (OOP)  
 - Software Testing (Manual)  
 - Git and GitHub  
-- Visual Studio Code  
+- Visual Studio Code
+- Figma(screen designs)  
 
 ---
 
 ## Projects
 
-- Student System Management
+- Environmental Sustainability Tracker
 - ExploreConnectSA(Web App)
+- Client-server Car Voting System
+- Student Management System
 
 ---
 ## Goals
 
-- Grow as a backend/software developer  
+- I want to grow as a backend/software developer  
 - Contribute to real-world systems  
 - Build scalable and efficient applications  
 
@@ -85,9 +88,9 @@ Nov 2025 – Jan 2026
 
 ## References
 
-Tashreeq  
-Plum Systems, Cape Town  
-Email: Tashreeq@plumsystems  
+Burger  
+Projects, Cape Town  
+Email: burgerr@cput.ac.za 
 Phone: 0768389013  
 
 Maria Motaung  
