@@ -11,7 +11,7 @@ LinkedIn: https://linkedin.com/in/kabelo-moloko-81052127
 
 ## Profile
 
-I am an ICT Software Development student with strong computer literacy skills, including data management, software applications, and technical problem solving.  
+I am an ICT Software Development student studying at CPUT in Cape Town with strong computer literacy skills, including data management, software applications, and technical problem solving.  
 I am proficient in Microsoft Office and eager to apply my knowledge in practical environments and contribute to real-world projects.
 
 ---
@@ -32,7 +32,7 @@ Bachelor's Pass (2020)
 
 ### Backend Software Development  
 School Projects  
-Jun 2025 – Dec 2025  
+2023 - 2026  
 
 - Developed a web-app for the community of District 6
 - Implemented server-side logic and database interactions  
