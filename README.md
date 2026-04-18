@@ -73,8 +73,9 @@ Nov 2025 – Jan 2026
 ## Projects
 
 - Environmental Sustainability Tracker
-  https://github.com/KabeloMoloko/ExploreConnectSA
+  https://github.com/KabeloMoloko/EnvironmentSustainabilityTracker_EcoTrack
 - ExploreConnectSA(Web App)
+  https://github.com/KabeloMoloko/ExploreConnectSA
 - Client-server Car Voting System
 - Student Management System
 
