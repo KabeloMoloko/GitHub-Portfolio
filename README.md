@@ -10,6 +10,7 @@ Cape Town, South Africa
 ---
 
 ## Profile
+[GitHub](https://github.com/KabeloMoloko)
 I am an ICT Software Development student at CPUT in Cape Town with strong computer literacy skills, including data management, software applications, and technical problem solving.  
 
 I am proficient in Microsoft Office and eager to apply my knowledge in practical environments and contribute to real-world projects.
