@@ -84,10 +84,10 @@ Nov 2025 – Jan 2026
 ## Projects
 
 ### Environmental Sustainability Tracker
-🔗 https://github.com/KabeloMoloko/EnvironmentSustainabilityTracker_EcoTrack  
+https://github.com/KabeloMoloko/EnvironmentSustainabilityTracker_EcoTrack  
 
 ### ExploreConnectSA (Web App)
-🔗 https://github.com/KabeloMoloko/ExploreConnectSA  
+https://github.com/KabeloMoloko/ExploreConnectSA  
 
 ### Client-Server Car Voting System  
 
@@ -96,7 +96,7 @@ Nov 2025 – Jan 2026
 ---
 
 ## Goals
-- Grow as a backend/software developer  
+- I want to grow as a backend/software developer  
 - Contribute to real-world systems  
 - Build scalable and efficient applications  
 
