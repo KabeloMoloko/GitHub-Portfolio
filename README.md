@@ -6,11 +6,12 @@ Cape Town, South Africa
 230117015@mycput.ac.za  
 0676189659  
 [LinkedIn](https://linkedin.com/in/kabelo-moloko-81052127)
+[GitHub](https://github.com/KabeloMoloko)
 
 ---
 
 ## Profile
-[GitHub](https://github.com/KabeloMoloko)
+
 I am an ICT Software Development student at CPUT in Cape Town with strong computer literacy skills, including data management, software applications, and technical problem solving.  
 
 I am proficient in Microsoft Office and eager to apply my knowledge in practical environments and contribute to real-world projects.
@@ -149,7 +150,7 @@ I participated in a mock interview to practice my communication and technical ex
 My goal was to answer questions confidently and demonstrate my understanding of software development concepts.
 
 **Action:**  
-I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on speaking clearly and explaining my projects.
+I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on speaking clearly and telling people about me.
 
 **Result:**  
 I identified areas where I need improvement, such as confidence and structuring answers. This experience helped me understand how to better prepare for real interviews.
