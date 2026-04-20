@@ -123,3 +123,48 @@ maria02@gmail.com
 
 ---
 
+## Reflection: Coding in Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a professional digital CV using Markdown on GitHub.
+
+**Task:**  
+My task was to structure and format my portfolio clearly using Markdown syntax while ensuring it looks professional and readable.
+
+**Action:**  
+I learned how to use headings, lists, links, and badges in Markdown. I structured my CV into sections such as profile, education, skills, and projects. I also improved readability by using icons and proper spacing.
+
+**Result:**  
+I successfully created a well-structured and visually appealing GitHub portfolio. I now understand how Markdown can be used to present professional content effectively.
+
+---
+
+## Reflection: Mock Interview (STAR Method)
+
+**Situation:**  
+I participated in a mock interview to practice my communication and technical explanation skills.
+
+**Task:**  
+My goal was to answer questions confidently and demonstrate my understanding of software development concepts.
+
+**Action:**  
+I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on speaking clearly and explaining my projects.
+
+**Result:**  
+I identified areas where I need improvement, such as confidence and structuring answers. This experience helped me understand how to better prepare for real interviews.
+
+---
+
+## Reflection: GitHub Pages (STAR Method)
+
+**Situation:**  
+I was required to publish my portfolio using GitHub Pages.
+
+**Task:**  
+My task was to convert my GitHub repository into a live website accessible online.
+
+**Action:**  
+I configured GitHub Pages through the repository settings and ensured my README or index file displayed correctly as a webpage.
+
+**Result:**  
+I successfully published my portfolio online. I learned how GitHub can be used not only for code storage but also for hosting websites.
